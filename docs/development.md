@@ -10,7 +10,7 @@
 
 - Node.js 24。対象バージョンは `.node-version` と `package.json` に記載。
 - npm。外部npm依存はない。
-- Git。専用リポジトリは `nekobus775-eng/business-portfolio`、既定ブランチは `main`。
+- Git。専用リポジトリは `nekobus775-eng/nekobus775-eng.github.io`、既定ブランチは `main`。
 
 ## 検査の実行
 
