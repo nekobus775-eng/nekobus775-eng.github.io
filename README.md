@@ -2,11 +2,15 @@
 
 AIを活用したWeb・自動化、出版・メディア、映像、調査・研究などの取り組みを紹介する、日本語の静的ポートフォリオです。
 
+公開URL：**https://nekobus775-eng.github.io/**
+
+旧URL `https://nekobus775-eng.github.io/business-portfolio/` からも、新しいURLへ移動します。実績の詳細を示す `#work/...` や `#contact` も引き継ぎます。
+
 ## 公開用の構成
 
 `index.html` は、スタイル、動作、28件の実績データ、説明図4点をすべて含む完成ファイルです。外部のJavaScriptライブラリ、CDN、外部フォント、APIキー、サーバー側の処理を必要としません。
 
-GitHub Pagesは `main` ブランチの `/ (root)` を公開元として使用します。パスを固定した外部ファイルへの参照がないため、リポジトリ配下でも表示できます。
+リポジトリ名は `nekobus775-eng.github.io` です。GitHub Pagesは `main` ブランチの `/ (root)` を公開元として使用します。パスを固定した外部ファイルへの参照がないため、リポジトリ配下でも表示できます。
 
 ### 主な機能
 
